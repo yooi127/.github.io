@@ -24,8 +24,8 @@
 <body>
 
 
-<!-- (5) a "div" is like a window; you're basically telling the browser to make a container here, size 1400 by 880 -->
-<div id="mapid" style="width: 1400px; height: 880px;"></div>
+<!-- (5) a "div" is like a window; you're basically telling the browser to make a container here, size 1200 by 880 -->
+<div id="mapid" style="width: 1200px; height: 880px;"></div>
 
 <script>
 //(6) when you are outside of the head and outside of functions, you can use just two slashes to leave single-line comments like this and you don't need to close
